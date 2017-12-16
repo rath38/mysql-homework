@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "0.0.1",
+  "description": "The applications description is missing because im to lazy to write.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bamazon",
+    "shopping"
+  ],
+  "author": "Alexander Robinson",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "require": "^2.4.20"
+  }
+}
