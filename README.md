@@ -2,4 +2,4 @@
 
 ## Bamazon Customer
 
-![Customer1](https://github.com/rath38/mysql-homework/screenshots/customer1.PNG)
+![Customer1](/screenshots/customer1.PNG)
