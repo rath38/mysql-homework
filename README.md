@@ -23,16 +23,16 @@
 
 1. First it displays the menu.
 
-![Manager1](/screenshots/Manager1.PNG)
+![Manager1](/screenshots/manager1.PNG)
 
 2. View products for sale
 
 * First you select *view products for sale* .
 
-![Manager2](/screenshots/Manager2.PNG)
+![Manager2](/screenshots/manager2.PNG)
 
 * Then it displays the results.
 
-![Manager2](/screenshots/Manager3.PNG)
+![Manager2](/screenshots/manager3.PNG)
 
 
