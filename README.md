@@ -18,3 +18,21 @@
 4. Finally it tells you the total amount of your purchase.
 
 ![Customer4](/screenshots/customer4.PNG)
+
+### Bamazon Manager
+
+1. First it displays the menu.
+
+![Manager1](/screenshots/Manager1.PNG)
+
+2. View products for sale
+
+* First you select *view products for sale* .
+
+![Manager2](/screenshots/Manager2.PNG)
+
+* Then it displays the results.
+
+![Manager2](/screenshots/Manager3.PNG)
+
+
